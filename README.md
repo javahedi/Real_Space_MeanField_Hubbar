@@ -1,1 +1,1 @@
-# Real_Space_MeanField_Hubbar
+# Real_Space_MeanField_Hubbard_Model
